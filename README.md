@@ -9,4 +9,4 @@ I'm currently on the look out for a role in backend development, preferrably wri
 
 ### Random things about me:
 - I play League (ADC, Dia 2 peak), Dota 2 (Pos 1, Legend 4 peak), and Wild Rift (ADC, GM peak)
-- I am the vocalist of a band in the Philippines called **[Room for Cielo](https://www.youtube.com/roomforcielo)**
+- I am the vocalist of **[Room for Cielo](https://www.youtube.com/roomforcielo)**, an `old-soul` pop band in the Philippines
