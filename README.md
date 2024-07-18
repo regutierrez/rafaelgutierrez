@@ -8,7 +8,7 @@ Hi! I'm Pael (he/him). I'm a geodetic engineer who transitioned to tech. When I 
 
 My _weapon of choice_ is Python, and actively learning Go and other backend stuff on [bootdev](boot.dev). Right now, I'm doing part-time work with the construction firm [SBStruc](https://www.facebook.com/SBStruc) to create an app that automates boring, mundane processes in their structrual design workflow. Check it out here: [SBS-BESI](https://github.com/SBStruc/SBS-BES)
 
-I'm currently on the look out for a role in backend development, preferrably writing in Python or Go. If you're hiring, let's chat!
+I currently work at [Aescape](https://www.aescape.com/), but I'm open to doing opensource/project collaborations on the side.
 
 
 ### Random things about me:
